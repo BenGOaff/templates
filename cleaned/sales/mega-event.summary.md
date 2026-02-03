@@ -1,0 +1,201 @@
+﻿# Summary - mega-event.html
+
+Path: C:/Users/hello/Downloads/templates/cleaned/sales/mega-event.html
+
+## Headings preview
+- (none detected)
+
+## Colors (hex)
+- #000
+- #0000
+- #00000033
+- #000000cc
+- #000000e6
+- #000000ff
+- #00adef
+- #00adefe6
+- #00adefff
+- #020817
+- #0f0
+- #111
+- #121212
+- #141516
+- #1d0210
+- #2a80ff
+- #342134
+- #353535
+- #360309
+- #3b003b
+- #444
+- #4b5563
+- #555
+- #6297ff
+- #804e0f
+- #a6b1ff
+- #d0ba8e
+- #da2f35
+- #dfe7f1
+- #e1e7ef
+- #e2e2e2
+- #eaeaea
+- #eee
+- #eeeeee
+- #f1f5f9
+- #f44
+- #fcfcfc
+- #ff0505
+- #ff4f00
+- #ff5210
+- #ff5210ff
+- #ff8f00
+- #fff
+- #ffffff
+- #ffffff33
+- #ffffff99
+- #ffffffff
+
+## Colors (rgb/rgba)
+- rgb(0,0,0)
+- rgb(0,0,0,.2)
+- rgb(0,0,0,.3)
+- rgb(0,191,255)
+- rgb(0,194,251)
+- rgb(0,255,170)
+- rgb(0,255,191)
+- rgb(0,255,204)
+- rgb(1,77,130)
+- rgb(11,11,13)
+- rgb(119,119,119)
+- rgb(12,12,12)
+- rgb(120,120,120)
+- rgb(138,138,138)
+- rgb(143,143,143)
+- rgb(145,145,145)
+- rgb(15,15,15)
+- rgb(156,163,175)
+- rgb(17,25,33)
+- rgb(176,186,202)
+- rgb(191,191,191)
+- rgb(20,174,207)
+- rgb(20,20,20)
+- rgb(204,204,204)
+- rgb(209,213,219)
+- rgb(227,79,79)
+- rgb(229,231,235)
+- rgb(23,25,31)
+- rgb(238,253,54)
+- rgb(238,255,0)
+- rgb(239,239,239)
+- rgb(240,254,255)
+- rgb(25,68,107)
+- rgb(250,250,250)
+- rgb(252,252,252)
+- rgb(254,251,251)
+- rgb(255,243,143)
+- rgb(255,255,255)
+- rgb(31,41,55)
+- rgb(34,194,210)
+- rgb(34,34,34)
+- rgb(37,200,112)
+- rgb(38,120,157)
+- rgb(38,229,248)
+- rgb(40,40,40)
+- rgb(48,184,213)
+- rgb(51,51,51)
+- rgb(59,130,246)
+- rgb(75,85,99)
+- rgb(8,7,9)
+- rgb(94,94,94)
+- rgb(96,165,250)
+- rgb(98,151,255)
+- rgba(0,0,0,.15)
+- rgba(0,0,0,.17)
+- rgba(0,0,0,.2)
+- rgba(0,0,0,.33)
+- rgba(0,0,0,.8)
+- rgba(0,0,0,.9)
+- rgba(0,0,0,0)
+- rgba(0,0,0,0.2)
+- rgba(0,0,0,0.25)
+- rgba(0,0,0,0.4)
+- rgba(0,0,0,0.5)
+- rgba(0,0,0,0.6)
+- rgba(0,0,0,0.8)
+- rgba(0,0,0,1)
+- rgba(0,150,180,0.4)
+- rgba(1,200,203,0.8)
+- rgba(127,127,127,.76)
+- rgba(15,15,15,0)
+- rgba(15,15,15,0.44)
+- rgba(155,155,155,1)
+- rgba(20,158,252,0)
+- rgba(20,174,207,1)
+- rgba(20,21,22,.3)
+- rgba(204, 204, 204, 0)
+- rgba(204, 204, 204, 1)
+- rgba(204,204,204,0)
+- rgba(225,225,225,0.8)
+- rgba(225,225,225,1)
+- rgba(227,227,227,0.2)
+- rgba(23, 25, 31, 1)
+- rgba(234,234,234,0.7)
+- rgba(237,237,237,1)
+- rgba(238, 255, 0, 1)
+- rgba(238,255,0,1)
+- rgba(239,239,239,0)
+- rgba(240,240,240,0)
+- rgba(240,240,240,1)
+- rgba(241,244,248,0)
+- rgba(25,68,107,1)
+- rgba(255, 255, 255, 1)
+- rgba(255,200,200,.6)
+- rgba(255,255,255,.2)
+- rgba(255,255,255,.3)
+- rgba(255,255,255,.4)
+- rgba(255,255,255,.6)
+- rgba(255,255,255,.8)
+- rgba(255,255,255,0.1)
+- rgba(255,255,255,0.13)
+- rgba(255,255,255,0.15)
+- rgba(255,255,255,0.7)
+- rgba(255,255,255,0.71)
+- rgba(255,255,255,0.8)
+- rgba(255,255,255,0.9)
+- rgba(255,255,255,1)
+- rgba(26,26,26,0.7)
+- rgba(38,229,248,0.7)
+- rgba(38,229,248,0.84)
+- rgba(38,229,248,1)
+- rgba(42,128,255,.5)
+- rgba(45,114,143,0.3)
+- rgba(45,45,45,1)
+- rgba(47,47,47,0.8)
+- rgba(47,47,47,1)
+- rgba(48,48,48,0.3)
+- rgba(55,55,55,0.05)
+- rgba(6,243,226,1)
+- rgba(62,62,62,0.08)
+- rgba(66,10,14,.2)
+- rgba(69,69,69,1)
+- rgba(71,71,71,1)
+- rgba(72,72,72,0.15)
+- rgba(72,72,72,0.4)
+- rgba(83,56,19,0.3)
+
+## Fonts
+- font-family:""}.glasp-extension .font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.glasp-extension .\!text-\[12px\]{font-size:12px!important}.glasp-extension .text-2xl{font-size:1.5rem;
+- font-family:"Font Awesome 6 Brands";
+- font-family:"Font Awesome 6 Pro";
+- font-family:"Roboto";
+- font-family:&quot;
+- font-family:inherit;
+- font-family:inherit}.cYQINL:focus{outline:none}.dYhmiS{display:flex}.dYhmiS .sc-jQybuE{border-radius:4px 0px 0px 4px;
+- font-family:inherit></div></template></div><div class=glasp-extension style=display:block;
+- font-family:Roboto;
+- font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+- font-family:ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+- font-family:unset}ul{margin:0px}.blwjlq{position:relative;
+
+## Asset URLs (images/videos/fonts)
+- (none detected)
+

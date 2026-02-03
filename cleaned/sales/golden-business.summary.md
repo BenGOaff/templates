@@ -1,0 +1,183 @@
+﻿# Summary - golden-business.html
+
+Path: C:/Users/hello/Downloads/templates/cleaned/sales/golden-business.html
+
+## Headings preview
+- (none detected)
+
+## Colors (hex)
+- #000
+- #0000
+- #000000
+- #002253
+- #0067b1
+- #0082b1
+- #0086f7
+- #00a4df
+- #00d66f
+- #00eb5e
+- #011e0f
+- #0165ac
+- #016fd0
+- #020817
+- #023b1e
+- #034f28
+- #036862
+- #037fb0
+- #047ab1
+- #060500
+- #0e9641
+- #0f6d3d
+- #107aca
+- #12884b
+- #1434cb
+- #16315e
+- #1d3944
+- #221c46
+- #252525
+- #2a80ff
+- #353535
+- #474e5a
+- #4b5563
+- #515e80
+- #545969
+- #6297ff
+- #67b637
+- #818da0
+- #8b929c
+- #bfc6d1
+- #cd1309
+- #cfd7df
+- #d42d06
+- #d8dee4
+- #da2f35
+- #dcc285
+- #dd2423
+- #dfe7f1
+- #e1e7ef
+- #e2e2e2
+- #e31836
+- #e4e8ee
+- #eaeaea
+- #eb001b
+- #eb1c26
+- #ee4123
+- #eee
+- #eeeeee
+- #f1f5f9
+- #f27712
+- #f48021
+- #f49000
+- #f5f5f5
+- #f79e1b
+- #fefefe
+- #ff0
+- #ff5f00
+- #ffca05
+- #ffd800
+- #fff
+- #fffffe
+- #ffffff
+
+## Colors (rgb/rgba)
+- rgb(0,0,0)
+- rgb(0,0,0,.2)
+- rgb(0,0,0,.3)
+- rgb(0,131,143)
+- rgb(0,177,58)
+- rgb(1,177,58)
+- rgb(107,107,107)
+- rgb(110,130,158)
+- rgb(139,146,156)
+- rgb(156,163,175)
+- rgb(167,154,122)
+- rgb(17,17,17)
+- rgb(209,213,219)
+- rgb(215,215,215)
+- rgb(22,22,22)
+- rgb(220,194,133)
+- rgb(220,194,165)
+- rgb(221,194,133)
+- rgb(221,77,77)
+- rgb(229,231,235)
+- rgb(243,243,243)
+- rgb(251,249,243)
+- rgb(253,246,246)
+- rgb(254,177,141)
+- rgb(255,254,238)
+- rgb(255,255,255)
+- rgb(28,28,28)
+- rgb(3,146,50)
+- rgb(31,23,11)
+- rgb(31,41,55)
+- rgb(32,32,32)
+- rgb(38,196,0)
+- rgb(59,130,246)
+- rgb(75,85,99)
+- rgb(82,91,126)
+- rgb(85,85,85)
+- rgb(96,165,250)
+- rgb(98,151,255)
+- rgba(0, 0, 0, 1)
+- rgba(0,0,0,.2)
+- rgba(0,0,0,0)
+- rgba(0,0,0,0.05)
+- rgba(0,0,0,0.1)
+- rgba(0,0,0,0.15)
+- rgba(0,0,0,0.2)
+- rgba(0,0,0,0.3)
+- rgba(0,0,0,0.32)
+- rgba(0,0,0,0.4)
+- rgba(0,0,0,0.5)
+- rgba(0,0,0,0.7)
+- rgba(0,0,0,0.8)
+- rgba(155,155,155,1)
+- rgba(182,181,177,1)
+- rgba(191,169,118,1)
+- rgba(2,177,58,1)
+- rgba(220, 194, 133, 1)
+- rgba(220,194,133,0)
+- rgba(220,194,133,1)
+- rgba(221,194,133,1)
+- rgba(221,77,77,1)
+- rgba(23,23,23,1)
+- rgba(235,28,38,0.1)
+- rgba(235,28,38,0.15)
+- rgba(235,28,38,0.2)
+- rgba(235,28,38,0.5)
+- rgba(251,249,243,0)
+- rgba(255, 255, 255, 1)
+- rgba(255,255,255,.3)
+- rgba(255,255,255,0)
+- rgba(255,255,255,0.1)
+- rgba(255,255,255,0.15)
+- rgba(255,255,255,0.8)
+- rgba(255,255,255,1)
+- rgba(31,23,11,1)
+- rgba(32, 32, 32, 1)
+- rgba(42,128,255,.5)
+- rgba(82, 91, 126, 1)
+
+## Fonts
+- font-family:""}.glasp-extension .font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.glasp-extension .\!text-\[12px\]{font-size:12px!important}.glasp-extension .text-2xl{font-size:1.5rem;
+- font-family:"Caveat";
+- font-family:"Font Awesome 6 Brands";
+- font-family:"Font Awesome 6 Pro";
+- font-family:"Noto Sans";
+- font-family:"Work Sans";
+- font-family:-apple-system,system-ui,BlinkMacSystemFont,&amp;
+- font-family:-apple-system,system-ui,BlinkMacSystemFont,SF Pro Text,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol}body{margin:0;
+- font-family:Caveat;
+- font-family:Helvetica Neue;
+- font-family:inherit;
+- font-family:inherit></div></template></div><iframe name=__privateStripeController8691 frameborder=0 allowtransparency=true scrolling=no role=presentation allow="payment *" aria-hidden=true tabindex=-1 style=border:none!important;
+- font-family:Roboto;
+- font-family:sans-serif;
+- font-family:Ubuntu;
+- font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+- font-family:ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+- font-family:unset}ul{margin:0px}.blwjlq{position:relative;
+
+## Asset URLs (images/videos/fonts)
+- https://d1yei2z3i6k35z.cloudfront.net/3969368/6750cb5b16fad_JointheLIVESellingOnlineChallengeDec17th-19th8AMPDTO.mp4
+

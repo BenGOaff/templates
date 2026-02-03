@@ -1,0 +1,175 @@
+﻿# Summary - click-tunnel.html
+
+Path: C:/Users/hello/Downloads/templates/cleaned/sales/click-tunnel.html
+
+## Headings preview
+- (none detected)
+
+## Colors (hex)
+- #000
+- #0000
+- #000000
+- #002253
+- #0067b1
+- #0082b1
+- #0086f7
+- #00a4df
+- #00d66f
+- #00eb5e
+- #011e0f
+- #0165ac
+- #016fd0
+- #020817
+- #023b1e
+- #034f28
+- #036862
+- #037fb0
+- #047ab1
+- #060500
+- #0e9641
+- #0f6d3d
+- #107aca
+- #12884b
+- #1434cb
+- #16315e
+- #1d3944
+- #221c46
+- #252525
+- #2a80ff
+- #353535
+- #474e5a
+- #4b5563
+- #515e80
+- #545969
+- #6297ff
+- #67b637
+- #818da0
+- #8b929c
+- #bfc6d1
+- #cd1309
+- #cfd7df
+- #d42d06
+- #d8dee4
+- #da2f35
+- #dd2423
+- #dfe7f1
+- #e1e7ef
+- #e2e2e2
+- #e31836
+- #e4e8ee
+- #eaeaea
+- #eb001b
+- #eb1c26
+- #ee4123
+- #eee
+- #eeeeee
+- #f1f5f9
+- #f27712
+- #f48021
+- #f49000
+- #f5f5f5
+- #f79e1b
+- #fefefe
+- #ff0
+- #ff5f00
+- #ffca05
+- #ffd800
+- #fff
+- #fffffe
+- #ffffff
+
+## Colors (rgb/rgba)
+- rgb(0,0,0)
+- rgb(0,0,0,.2)
+- rgb(0,0,0,.3)
+- rgb(0,131,143)
+- rgb(1,77,130)
+- rgb(104,30,111)
+- rgb(110,130,158)
+- rgb(139,146,156)
+- rgb(156,163,175)
+- rgb(17,17,17)
+- rgb(209,213,219)
+- rgb(215,215,215)
+- rgb(215,30,70)
+- rgb(217,217,217)
+- rgb(229,231,235)
+- rgb(239,51,65)
+- rgb(25,25,25)
+- rgb(255,255,255)
+- rgb(31,41,55)
+- rgb(35,65,137)
+- rgb(45,45,45)
+- rgb(46,46,46)
+- rgb(59,130,246)
+- rgb(7,20,25)
+- rgb(74,144,226)
+- rgb(75,85,99)
+- rgb(85,85,85)
+- rgb(96,165,250)
+- rgb(98,151,255)
+- rgba(0,0,0,.2)
+- rgba(0,0,0,0)
+- rgba(0,0,0,0.05)
+- rgba(0,0,0,0.1)
+- rgba(0,0,0,0.15)
+- rgba(0,0,0,0.2)
+- rgba(0,0,0,0.3)
+- rgba(0,0,0,0.4)
+- rgba(0,0,0,0.5)
+- rgba(0,0,0,0.8)
+- rgba(0,0,0,1)
+- rgba(104,30,111,1)
+- rgba(123,224,84,1)
+- rgba(136,136,136,1)
+- rgba(155,155,155,1)
+- rgba(17, 17, 17, 1)
+- rgba(204,203,207,1)
+- rgba(215,30,70,0.9)
+- rgba(215,30,70,1)
+- rgba(23,74,91,1)
+- rgba(235,28,38,0.1)
+- rgba(235,28,38,0.15)
+- rgba(235,28,38,0.2)
+- rgba(235,28,38,0.5)
+- rgba(239,51,65,1)
+- rgba(255, 255, 255, 1)
+- rgba(255,255,255,.3)
+- rgba(255,255,255,0)
+- rgba(255,255,255,0.1)
+- rgba(255,255,255,0.15)
+- rgba(255,255,255,0.8)
+- rgba(255,255,255,0.9)
+- rgba(255,255,255,1)
+- rgba(31,149,123,1)
+- rgba(35,65,137,1)
+- rgba(42,128,255,.5)
+- rgba(45, 45, 45, 1)
+- rgba(45,45,45,1)
+- rgba(46,46,46,1)
+- rgba(57,174,192,0.3)
+- rgba(58,58,58,1)
+- rgba(70,145,246,0.38)
+
+## Fonts
+- font-family:""}.glasp-extension .font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.glasp-extension .\!text-\[12px\]{font-size:12px!important}.glasp-extension .text-2xl{font-size:1.5rem;
+- font-family:"Font Awesome 6 Pro";
+- font-family:"Inter";
+- font-family:"Montserrat";
+- font-family:-apple-system,system-ui,BlinkMacSystemFont,&amp;
+- font-family:-apple-system,system-ui,BlinkMacSystemFont,SF Pro Text,Helvetica Neue,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol}body{margin:0;
+- font-family:Helvetica Neue;
+- font-family:inherit;
+- font-family:inherit></div></template></div><iframe name=__privateStripeController8571 frameborder=0 allowtransparency=true scrolling=no role=presentation allow="payment *" aria-hidden=true tabindex=-1 style=border:none!important;
+- font-family:Inter;
+- font-family:Montserrat;
+- font-family:Roboto;
+- font-family:sans-serif;
+- font-family:Ubuntu;
+- font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+- font-family:ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+- font-family:unset}ul{margin:0px}.goBYBQ{text-align:initial;
+
+## Asset URLs (images/videos/fonts)
+- (none detected)
+

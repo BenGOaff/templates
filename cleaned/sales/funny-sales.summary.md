@@ -1,0 +1,176 @@
+﻿# Summary - funny-sales.html
+
+Path: C:/Users/hello/Downloads/templates/cleaned/sales/funny-sales.html
+
+## Headings preview
+- (none detected)
+
+## Colors (hex)
+- #000
+- #0000
+- #00000033
+- #000000cc
+- #000000e6
+- #000000ff
+- #001f4d
+- #00adef
+- #00adefe6
+- #00adefff
+- #020817
+- #05275a
+- #0f0
+- #111
+- #121212
+- #134895
+- #141516
+- #1d0210
+- #2a80ff
+- #342134
+- #353535
+- #360309
+- #3b003b
+- #444
+- #4b5563
+- #555
+- #6297ff
+- #8000ff
+- #804e0f
+- #a6b1ff
+- #d0ba8e
+- #da2f35
+- #dc00b0
+- #de02b2
+- #de24fd
+- #dfe7f1
+- #e1e7ef
+- #e2e2e2
+- #eaeaea
+- #eee
+- #eeeeee
+- #f1f5f9
+- #f44
+- #ff2ad4
+- #ff5210
+- #ff5210ff
+- #fff
+- #ffffff
+- #ffffff33
+- #ffffff99
+- #ffffffff
+
+## Colors (rgb/rgba)
+- rgb(0,0,0)
+- rgb(0,0,0,.2)
+- rgb(0,0,0,.3)
+- rgb(0,131,143)
+- rgb(0,31,77)
+- rgb(1,77,130)
+- rgb(107,107,107)
+- rgb(110,130,158)
+- rgb(119,119,119)
+- rgb(12,183,19)
+- rgb(136,18,255)
+- rgb(156,163,175)
+- rgb(159,8,128)
+- rgb(17,17,17)
+- rgb(176,186,202)
+- rgb(209,213,219)
+- rgb(213,213,213)
+- rgb(215,215,215)
+- rgb(217,224,243)
+- rgb(22,27,35)
+- rgb(222,36,253)
+- rgb(226,60,253)
+- rgb(227,79,79)
+- rgb(229,231,235)
+- rgb(241,240,247)
+- rgb(243,22,22)
+- rgb(249,0,199)
+- rgb(253,14,228)
+- rgb(255,0,204)
+- rgb(255,255,255)
+- rgb(30,34,58)
+- rgb(31,41,55)
+- rgb(34,34,34)
+- rgb(45,45,45)
+- rgb(46,46,46)
+- rgb(51,51,51)
+- rgb(59,130,246)
+- rgb(74,74,74)
+- rgb(75,85,99)
+- rgb(76,91,92)
+- rgb(85,85,85)
+- rgb(92,92,92)
+- rgb(96,165,250)
+- rgb(98,151,255)
+- rgba(0,0,0,.15)
+- rgba(0,0,0,.17)
+- rgba(0,0,0,.2)
+- rgba(0,0,0,.33)
+- rgba(0,0,0,.8)
+- rgba(0,0,0,.9)
+- rgba(0,0,0,0)
+- rgba(0,0,0,0.1)
+- rgba(0,0,0,0.2)
+- rgba(0,0,0,0.25)
+- rgba(0,0,0,0.3)
+- rgba(0,0,0,0.4)
+- rgba(0,0,0,0.5)
+- rgba(0,0,0,0.8)
+- rgba(0,0,0,1)
+- rgba(0,31,77,1)
+- rgba(12,183,19,1)
+- rgba(127,127,127,.76)
+- rgba(13,183,20,1)
+- rgba(153,167,250,0.56)
+- rgba(17, 17, 17, 1)
+- rgba(20,21,22,.3)
+- rgba(243,22,22,1)
+- rgba(249, 0, 199, 1)
+- rgba(255, 255, 255, 1)
+- rgba(255,1,73,1)
+- rgba(255,200,200,.6)
+- rgba(255,255,255, 1)
+- rgba(255,255,255,.2)
+- rgba(255,255,255,.3)
+- rgba(255,255,255,.4)
+- rgba(255,255,255,.6)
+- rgba(255,255,255,.8)
+- rgba(255,255,255,0)
+- rgba(255,255,255,0.1)
+- rgba(255,255,255,0.15)
+- rgba(255,255,255,0.8)
+- rgba(255,255,255,1)
+- rgba(4,20,43,0)
+- rgba(41,41,41,1)
+- rgba(42,128,255,.5)
+- rgba(46,46,46,1)
+- rgba(66,10,14,.2)
+- rgba(74,144,226,1)
+
+## Fonts
+- font-family:""}.glasp-extension .font-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}.glasp-extension .\!text-\[12px\]{font-size:12px!important}.glasp-extension .text-2xl{font-size:1.5rem;
+- font-family:"Caveat";
+- font-family:"Font Awesome 6 Pro";
+- font-family:"Kanit";
+- font-family:"Montserrat";
+- font-family:"Poppins";
+- font-family:&quot;
+- font-family:-apple-system,system-ui,BlinkMacSystemFont,&amp;
+- font-family:Caveat;
+- font-family:Helvetica Neue;
+- font-family:inherit;
+- font-family:inherit}.kYOFlX:focus{outline:none}.byxAn{display:flex}.byxAn .sc-kEsJEW{border-radius:4px 0px 0px 4px;
+- font-family:inherit></div></template></div><iframe name=__privateStripeController1801 frameborder=0 allowtransparency=true scrolling=no role=presentation allow="payment *" aria-hidden=true tabindex=-1 style=border:none!important;
+- font-family:Kanit;
+- font-family:Montserrat;
+- font-family:Poppins;
+- font-family:Roboto;
+- font-family:Ubuntu;
+- font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+- font-family:ui-sans-serif,system-ui,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+- font-family:unset}ul{margin:0px}.ejxOjI{margin:15px 0px 0px;
+
+## Asset URLs (images/videos/fonts)
+- (none detected)
+
